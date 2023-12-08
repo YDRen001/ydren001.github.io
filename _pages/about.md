@@ -26,7 +26,7 @@ Publications
 <i>[[PDF]]() <br clear="left"/>
 <font size="1"> </font> <br/>
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
-<br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
+<br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu <I>Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
 <i>[[PDF]]() <br clear="left"/>
 <font size="1"> </font> <br/>
 
@@ -40,7 +40,7 @@ Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>Intern
 <i>[[PDF]]() <br clear="left"/>
 <font size="1"> </font> <br/>
 
-<b>Is lorawan really wide? fine-grained lora link-level measurement in an urban environment</b><br>
+<b>Is Lorawan Really Wide? Fine-grained LoRa Link-level Measurement in An Urban Environment</b><br>
 <b>Yidong Ren\*</b>, Li Liu\*, Chenning Li\*, Zhichao Cao and Shigang Chen<br><I>IEEE 30th International Conference on Network Protocols</i> (<b>ICNP 2022</b>)<br>
 <i>[[PDF]]() <br clear="left"/>
 <font size="1"> </font> <br/>
