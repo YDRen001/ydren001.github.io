@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree of Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. I was also a research intern at Nanyang Technological University in 2019, advised by Professor [Mo Li](https://home.cse.ust.hk/~lim/).
+Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree of Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. I was also a research intern at Nanyang Technological University in 2019, advised by Professor [Mo Li](https://home.cse.ust.hk/~lim/). Check out my current <b>CV</b>.
 
-My research focuses on **Wireless Networks** and **Artificial Intelligence of Things (AIoT)**, especially on Long-range wide area networks (LPWAN), low-power wireless systems, machine learning on wireless communication and their applications in industry and agriculture. Notable works include developing ML system for IoT(MobiHoc'23 and ICLR'23 workshop), radio frequency hardware design for agriculture IoT(MobiCom'23), backscatter communication (INFOCOM'23), practical LoRa measurement (ICNP'22) and WiFi channel selection (TMC'22).
+My research focuses on **Wireless Networks** and **Artificial Intelligence of Things (AIoT)**, especially on Long-range wide area networks (LPWAN), low-power wireless systems, machine learning on wireless communication and their applications in industry and agriculture. Notable works include developing ML system for IoT(MobiHoc'23 and ICLR'23 workshop), radio frequency hardware design for agriculture IoT(MobiCom'23), backscatter communication (INFOCOM'23), practical LoRa measurement (ICNP'22) and WiFi channel selection (TMC'22). 
 
 **Looking for research internship in summer 2024!**
 
@@ -19,9 +19,9 @@ News
 
 * [11/2023] Demeter accepted to **MobiCom'24** with shepherding.
 
-<br>
+<be>
 
- 
+<be>
 Publications
 ======
 
