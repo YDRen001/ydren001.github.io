@@ -37,7 +37,7 @@ Publications
 <font size="1"> </font> <br/>
 
 <b>NELoRa-Bench: A Benchmark for Neural-enhanced LoRa Demodulation</b><br>
-Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>International Conference on Learning Representations (ICLR 2023) Workshop on Machine Learning for IoT <b>(Oral)<\b></i> (<b>INFOCOM 2022</b>)<br>
+Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>International Conference on Learning Representations (ICLR 2023) Workshop on Machine Learning for IoT <b>(Oral)</b></i> (<b>INFOCOM 2022</b>)<br>
 <i>[[PDF]]() <br clear="left"/>
 <font size="1"> </font> <br/>
 
