@@ -25,7 +25,6 @@ Publications
 <b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br><I>Proceedings of the 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]]() <br clear="left"/>
 <font size="1"> </font> <br/>
-
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
 <br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
 <i>[[PDF]]() <br clear="left"/>
