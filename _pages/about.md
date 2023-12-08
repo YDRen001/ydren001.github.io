@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at Michigan State University under the supervision of Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from University of Electronic Science and Technology of China (UESTC).
 
-My research focuses on wireless networks, AIoT 
+My research focuses on wireless networks and Artificial Intelligence of Things (AIoT), especially on Long-range wide area networks (LPWAN), low-power wireless systems, machine learning on wireless communication and their applications in industry and agriculture. Notable works include developing machine learning system for IoT networking(MobiHoc'23 and ICLR'23 workshop), radio frequency hardware design for agriculture IoT(MobiCom'23), backscatter communication (INFOCOM'23), practical LoRa measurement (ICNP'22) and WiFi channel selection (TMC'22).
 
 <!--
 
