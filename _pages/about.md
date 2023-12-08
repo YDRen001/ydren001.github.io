@@ -22,11 +22,10 @@ Publications
 ======
 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment (To appear)</b><br>
-<b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao
-<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
+<b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao    <I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
-<br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu <I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
+<br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu.    <I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
 
 <b>Prism: High-throughput LoRa Backscatter with Non-linear Chirps</b><br>
 <b>Yidong Ren</b>, Puyu Cai, Jinyan Jiang, Jialuo Du, and Zhichao Cao<br><I>IEEE International Conference on Computer Communications</i> (<b>INFOCOM 2022</b>)<br>
