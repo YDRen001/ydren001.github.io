@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at Michigan State University under the supervision of Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from University of Electronic Science and Technology of China (UESTC).
+Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from University of Electronic Science and Technology of China (UESTC).
 
 My research focuses on **wireless networks** and **Artificial Intelligence of Things (AIoT)**, especially on Long-range wide area networks (LPWAN), low-power wireless systems, machine learning on wireless communication and their applications in industry and agriculture. Notable works include developing machine learning system for IoT networking(MobiHoc'23 and ICLR'23 workshop), radio frequency hardware design for agriculture IoT(MobiCom'23), backscatter communication (INFOCOM'23), practical LoRa measurement (ICNP'22) and WiFi channel selection (TMC'22).
 
@@ -21,17 +21,12 @@ Recent News
 Publications
 ======
 
-**Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment**
-
-**Yidong Ren**, Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao
-
-Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (**Mobicom 2024**)
-
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment (To appear)</b><br>
-<b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br><I>Proceedings of the 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
+<b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao
+<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
-<br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu <I>Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
+<br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu <I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
 
 <b>Prism: High-throughput LoRa Backscatter with Non-linear Chirps</b><br>
 <b>Yidong Ren</b>, Puyu Cai, Jinyan Jiang, Jialuo Du, and Zhichao Cao<br><I>IEEE International Conference on Computer Communications</i> (<b>INFOCOM 2022</b>)<br>
@@ -56,6 +51,12 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 <b>* Co-primary authors</b><br>
 
 <!--
+
+**Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment**
+
+**Yidong Ren**, Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao
+
+Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (**Mobicom 2024**)
 
 About Me
 ======
