@@ -14,11 +14,13 @@ My research focuses on **Wireless Networks** and **Artificial Intelligence of Th
 
 **Looking for research internship in summer 2024!**
 
-Recent News
+News
 ======
 
 * [11/2023] Demeter accepted to **MobiCom'24** with shepherding.
-<br/>
+
+<br>
+
  
 Publications
 ======
