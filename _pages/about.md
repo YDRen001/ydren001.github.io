@@ -21,7 +21,7 @@ Recent News
 Publications
 ======
 
-<b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
+<b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment (To appear)</b><br>
 <b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br><I>Proceedings of the 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]]() <br clear="left"/>
 <font size="1"> </font> <br/>
