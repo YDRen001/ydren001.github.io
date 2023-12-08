@@ -17,8 +17,8 @@ My research focuses on **Wireless Networks** and **Artificial Intelligence of Th
 Recent News
 ======
 
-* [11/2023] Demeter accepted to MobiCom'24 with shepherding.
-
+* [11/2023] Demeter accepted to **MobiCom'24** with shepherding.
+<br/>
  
 Publications
 ======
