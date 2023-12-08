@@ -26,6 +26,32 @@ Publications
 <i>[[PDF]]() <br clear="left"/>
 <font size="1"> </font> <br/>
 
+<b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
+<br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
+<i>[[PDF]]() <br clear="left"/>
+<font size="1"> </font> <br/>
+
+<b>Prism: High-throughput LoRa Backscatter with Non-linear Chirps</b><br>
+<b>Yidong Ren</b>, Puyu Cai, Jinyan Jiang, Jialuo Du, and Zhichao Cao<br><I>IEEE International Conference on Computer Communications</i> (<b>INFOCOM 2022</b>)<br>
+<i>[[PDF]]() <br clear="left"/>
+<font size="1"> </font> <br/>
+
+<b>NELoRa-Bench: A Benchmark for Neural-enhanced LoRa Demodulation</b><br>
+Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>International Conference on Learning Representations (ICLR 2023) Workshop on Machine Learning for IoT <b>(Oral)<\b></i> (<b>INFOCOM 2022</b>)<br>
+<i>[[PDF]]() <br clear="left"/>
+<font size="1"> </font> <br/>
+
+<b>Is lorawan really wide? fine-grained lora link-level measurement in an urban environment</b><br>
+<b>Yidong Ren\*</b>, Li Liu\*, Chenning Li\*, Zhichao Cao and Shigang Chen<br><I>IEEE 30th International Conference on Network Protocols</i> (<b>ICNP 2022</b>)<br>
+<i>[[PDF]]() <br clear="left"/>
+<font size="1"> </font> <br/>
+
+<b>Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput</b><br>
+Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Transactions on Mobile Computing</i> (<b>TMC</b>)<br>
+<i>[[PDF]]() <br clear="left"/>
+<font size="1"> </font> <br/>
+
+
 <!--
 
 About Me
