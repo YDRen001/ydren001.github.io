@@ -27,16 +27,18 @@ Publications
 
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
 <br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
-
-<b>Prism: High-throughput LoRa Backscatter with Non-linear Chirps</b><br>
-<b>Yidong Ren</b>, Puyu Cai, Jinyan Jiang, Jialuo Du, and Zhichao Cao<br><I>IEEE International Conference on Computer Communications</i> (<b>INFOCOM 2022</b>)<br>
-<i>[[PDF]]() <br clear="left"/>
+<i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3565287.3610254) <br clear="left"/>
 <font size="1"> </font>
 
 <b>NELoRa-Bench: A Benchmark for Neural-enhanced LoRa Demodulation</b><br>
 Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>International Conference on Learning Representations (ICLR 2023) Workshop on Machine Learning for IoT (<b>ICLR 2023</b>) Workshop on Machine Learning for IoT <b>(Oral)</b> </i> <br>
-<i>[[PDF]]() <br clear="left"/>
+<i>[[PDF]](https://arxiv.org/pdf/2305.01573.pdf)[[Video]](https://iclr.cc/virtual/2023/14753)<br clear="left"/>
 <font size="1"> </font> <br/>
+
+<b>Prism: High-throughput LoRa Backscatter with Non-linear Chirps</b><br>
+<b>Yidong Ren</b>, Puyu Cai, Jinyan Jiang, Jialuo Du, and Zhichao Cao<br><I>IEEE International Conference on Computer Communications</i> (<b>INFOCOM 2022</b>)<br>
+<i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/10228960) <br clear="left"/>
+<font size="1"> </font>
 
 <b>Is Lorawan Really Wide? Fine-grained LoRa Link-level Measurement in An Urban Environment</b><br>
 <b>Yidong Ren\*</b>, Li Liu\*, Chenning Li\*, Zhichao Cao and Shigang Chen<br><I>IEEE 30th International Conference on Network Protocols</i> (<b>ICNP 2022</b>)<br>
