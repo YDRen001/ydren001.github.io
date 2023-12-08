@@ -21,7 +21,11 @@ Recent News
 Publications
 ======
 
-* **Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment**
+**Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment**
+**Yidong Ren**, Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao
+Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (**Mobicom 2024**)
+
+**Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment**
 **Yidong Ren**, Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao
 Proceedings of the 24th Annual International Conference on Mobile Computing and Networking (**Mobicom 2024**)
 
