@@ -50,7 +50,7 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 <i>[[PDF]](https://ieeexplore.ieee.org/document/9847071) <br clear="left"/>
 <font size="1"> </font>
 
-<b>* Co-primary authors</b><br>
+* denote co-primary authors</b><br>
 
 <!--
 
