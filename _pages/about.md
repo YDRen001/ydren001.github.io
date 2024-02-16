@@ -17,6 +17,7 @@ My research focuses on **Wireless Networks** and **Artificial Intelligence of Th
 News
 ======
 
+* [02/2024] Serve as ACM MobiCom'24 Artifact Evaluation Committee.<br>
 * [11/2023] Demeter accepted to **MobiCom'24** with shepherding.<br>
 
 
