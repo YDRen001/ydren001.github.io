@@ -12,12 +12,12 @@ Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Co
 
 My research focuses on **Wireless Networks** and **Artificial Intelligence of Things (AIoT)**, especially on Long-range wide area networks (LPWAN), low-power communication, machine learning on wireless and their applications in industry and agriculture. Notable works include developing ML system for IoT(MobiHoc'23, ICLR'23 workshop), radio frequency hardware design for agriculture IoT(MobiCom'23), backscatter communication (INFOCOM'23), practical LoRa measurement (ICNP'22) and WiFi channel selection (TMC'22). 
 
-**Looking for research internship in summer 2024!**
+**Looking for research internship!**
 
 News
 ======
 
-* [11/2023] ChirpTransformer accepted to **MobiSys'24** with shepherding.<br>
+* [03/2024] ChirpTransformer accepted to **MobiSys'24** with shepherding.<br>
 * [02/2024] Serve as ACM MobiCom'24 Artifact Evaluation Committee.<br>
 * [11/2023] Demeter accepted to **MobiCom'24** with shepherding.<br>
 
