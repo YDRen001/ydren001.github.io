@@ -17,12 +17,17 @@ My research focuses on **Wireless Networks** and **Artificial Intelligence of Th
 News
 ======
 
+* [11/2023] ChirpTransformer accepted to **MobiSys'24** with shepherding.<br>
 * [02/2024] Serve as ACM MobiCom'24 Artifact Evaluation Committee.<br>
 * [11/2023] Demeter accepted to **MobiCom'24** with shepherding.<br>
 
 
 Publications
 ======
+
+<b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT (To appear)</b><br>
+<b>Yidong Ren\*</b>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
+<I>the 22nd ACM International Conference on Mobile Systems, Applications, and Services</i> (<b>Mobisys 2024</b>)<br>
 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment (To appear)</b><br>
 <b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
