@@ -12,8 +12,6 @@ Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Co
 
 My research focuses on **Wireless Networks** and **Artificial Intelligence of Things (AIoT)**, especially on Long-range wide area networks (LPWAN), low-power communication, machine learning on wireless and their applications in industry and agriculture. Notable works include IoT encoder (Mobisys'24), agricultural IoT (MobiCom'24), ML for LPWAN (MobiHoc'23, ICLR'23 workshop), low power communication (INFOCOM'23), large scale measurement (ICNP'22) and WiFi channel selection (TMC'22). 
 
-**Looking for research internship!**
-
 News
 ======
 
