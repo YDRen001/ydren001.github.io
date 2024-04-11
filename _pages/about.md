@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree of Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. Check out my current <b>[CV](https://ydren001.github.io/files/Yidong_resume.pdf)</b>.
+Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. Check out my current <b>[CV](https://ydren001.github.io/files/Yidong_resume.pdf)</b>.
 
 <!--I was also a research intern at Nanyang Technological University in 2019, advised by Professor [Mo Li](https://home.cse.ust.hk/~lim/). -->
 
@@ -17,6 +17,7 @@ My research focuses on **Wireless Networks** and **Intelligence of Things (IoT)*
 News
 ======
 
+* [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
 * [03/2024] ChirpTransformer accepted to **MobiSys'24** with shepherding.<br>
 * [02/2024] Serve as ACM MobiCom'24 Artifact Evaluation Committee.<br>
 * [11/2023] Demeter accepted to **MobiCom'24** with shepherding.<br>
