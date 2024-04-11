@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. Check out my current <b>[CV](https://ydren001.github.io/files/Yidong_resume.pdf)</b>.
-
 <!--I was also a research intern at Nanyang Technological University in 2019, advised by Professor [Mo Li](https://home.cse.ust.hk/~lim/). -->
 
 My research focuses on **Wireless Networks** and **Intelligence of Things (IoT)**, especially on Long-range wide area networks (LPWAN), low-power communication, and their applications in agriculture. Notable works include IoT encoder (Mobisys'24), agricultural IoT (MobiCom'24), low power communication (INFOCOM'23). 
