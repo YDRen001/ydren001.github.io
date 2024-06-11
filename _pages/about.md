@@ -29,9 +29,11 @@ Publications
 <b>Yidong Ren\*</b>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
 <I>The 22nd ACM International Conference on Mobile Systems, Applications, and Services</i> (<b>Mobisys 2024</b>)<br>
 
-<b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment (To appear)</b><br>
+<b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
 <I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
+<i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3636534.3649358)[[Code]](https://github.com/YDRen001/Demeter/tree/main)<br clear="left"/>
+<font size="1"> </font> 
 
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
 <br>Jialuo Du, <b>Yidong Ren</b>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
