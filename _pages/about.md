@@ -25,7 +25,7 @@ News
 Publications
 ======
 
-<b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT (To appear)</b><br>
+<b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
 <b>Yidong Ren\*</b>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
 <I>The 22nd ACM International Conference on Mobile Systems, Applications, and Services</i> (<b>Mobisys 2024</b>)<br>
 
