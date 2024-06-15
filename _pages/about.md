@@ -62,8 +62,7 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 
 \* denote co-primary authors<br>
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=ZCkq05bZ5W9TJLguU2G7tRLb2UefixELw1Ao5pPHLAw&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ZCkq05bZ5W9TJLguU2G7tRLb2UefixELw1Ao5pPHLAw"></script>
 
 <!--
 
