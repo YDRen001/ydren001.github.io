@@ -58,7 +58,7 @@ Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>Intern
 <font size="1"> </font>
 
 <b>Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput</b><br>
-Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Transactions on Mobile Computing</i> (<b>TMC</b>) vol. 22, no. 11, pp. 6297-6310, 1 Nov. 2023 <br>
+Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Transactions on Mobile Computing</i> (<b>TMC</b>), 2022<br>
 <i>[[PDF]](https://ieeexplore.ieee.org/document/9847071) <br clear="left"/>
 <font size="1"> </font>
 
