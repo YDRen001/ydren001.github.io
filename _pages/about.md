@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor [Mo Li]. (https://home.cse.ust.hk/~lim/) Check out my current <b>[CV](https://ydren001.github.io/files/Yidong_resume.pdf)</b>.
+Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor [Mo Li](https://home.cse.ust.hk/~lim/). Check out my current <b>[CV](https://ydren001.github.io/files/Yidong_resume.pdf)</b>.
 
 
 My research focuses on **Wireless Networks** and **Internet of Things (IoT)**, especially on Long-range wide area networks (LPWAN), low-power communication, and their applications in rural area networking. Notable works include rural area satellite IoT backhaul (MobiCom'24), cross-soil communication (MobiCom'24), IoT encoder (Mobisys'24), low power communication (INFOCOM'23). 
@@ -72,13 +72,13 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 Academic Service
 ======
 <b>Program Committee</b> <br>
-Mobicom'24 Artifact Evaluation<br>
-Mobisys'24 Artifact Evaluation<br>
+ACM Mobicom'24 Artifact Evaluation<br>
+ACM Mobisys'24 Artifact Evaluation<br>
 
 <b>Invited Reviewer</b> <br>
 IEEE/ACM Transactions on Networking (2023 2024)<br>
-IEEE Transactions on Sensor Network (2022 2023 2024)<br>
-ICPADS'24, MobiQuitous'22 
+ACM Transactions on Sensor Network (2022 2023 2024)<br>
+IEEE ICPADS'24, MobiQuitous'22 
 
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=ZCkq05bZ5W9TJLguU2G7tRLb2UefixELw1Ao5pPHLAw&co=2daaad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></body>
