@@ -69,6 +69,14 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 
 \* denote co-primary authors<br>
 
+Academic Service
+======
+<b>Program Committee</b> Mobicom'24 Artifact Evaluation, Mobisys'24 Artifact Evaluation
+
+<b>Reviewer</b> 
+IEEE/ACM Transactions on Networking (2023 2024), IEEE Transactions on Sensor Network (2022 2023 2024)
+ICPADS'24, MobiQuitous'22 
+
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=ZCkq05bZ5W9TJLguU2G7tRLb2UefixELw1Ao5pPHLAw&co=2daaad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></body>
 
