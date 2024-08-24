@@ -71,10 +71,13 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 
 Academic Service
 ======
-<b>Program Committee</b> Mobicom'24 Artifact Evaluation, Mobisys'24 Artifact Evaluation
+<b>Program Committee</b> 
+Mobicom'24 Artifact Evaluation
+Mobisys'24 Artifact Evaluation
 
 <b>Reviewer</b> 
-IEEE/ACM Transactions on Networking (2023 2024), IEEE Transactions on Sensor Network (2022 2023 2024)
+IEEE/ACM Transactions on Networking (2023 2024)
+IEEE Transactions on Sensor Network (2022 2023 2024)
 ICPADS'24, MobiQuitous'22 
 
 <body>
