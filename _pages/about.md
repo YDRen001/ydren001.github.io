@@ -16,7 +16,7 @@ My research focuses on **Wireless Networks** and **Internet of Things (IoT)**, e
 News
 ======
 
-* [04/2024] Two papers accepted to **MobiCom'24**.<br>
+* [08/2024] Two papers accepted to **MobiCom'24**.<br>
 * [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
 * [03/2024] One paper accepted to **MobiSys'24** with shepherding.<br>
 * [02/2024] Serve as ACM MobiCom'24 Artifact Evaluation Committee.<br>
