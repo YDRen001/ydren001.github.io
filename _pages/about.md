@@ -75,7 +75,7 @@ Academic Service
 Mobicom'24 Artifact Evaluation<br>
 Mobisys'24 Artifact Evaluation<br>
 
-<b>Reviewer</b> <br>
+<b>Invited Reviewer</b> <br>
 IEEE/ACM Transactions on Networking (2023 2024)<br>
 IEEE Transactions on Sensor Network (2022 2023 2024)<br>
 ICPADS'24, MobiQuitous'22 
