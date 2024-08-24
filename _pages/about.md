@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. Check out my current <b>[CV](https://ydren001.github.io/files/Yidong_resume.pdf)</b>.
-<!--I was also a research intern at Nanyang Technological University in 2019, advised by Professor [Mo Li](https://home.cse.ust.hk/~lim/). -->
+Welcome, my name is Yidong Ren, currently a third-year Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](http://www.cse.msu.edu/) advised by Professor [ZhiChao Cao](https://cse.msu.edu/~caozc/). I received my bachelor's degree in Electronic and Information Engineering from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor [Mo Li](https://home.cse.ust.hk/~lim/) Check out my current <b>[CV](https://ydren001.github.io/files/Yidong_resume.pdf)</b>.
 
-My research focuses on **Wireless Networks** and **Internet of Things (IoT)**, especially on Long-range wide area networks (LPWAN), low-power communication, and their applications in agriculture. Notable works include IoT encoder (Mobisys'24), agricultural IoT (MobiCom'24), low power communication (INFOCOM'23). 
+
+My research focuses on **Wireless Networks** and **Internet of Things (IoT)**, especially on Long-range wide area networks (LPWAN), low-power communication, and their applications in rural area networking. Notable works include rural area satellite IoT backhaul (MobiCom'24), cross-soil communication (MobiCom'24), IoT encoder (Mobisys'24), low power communication (INFOCOM'23). 
 
 News
 ======
 
+* [04/2024] Two papers accepted to **MobiCom'24**.<br>
 * [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
 * [03/2024] One paper accepted to **MobiSys'24** with shepherding.<br>
 * [02/2024] Serve as ACM MobiCom'24 Artifact Evaluation Committee.<br>
@@ -25,16 +26,20 @@ News
 Publications
 ======
 
-<b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
-<b>Yidong Ren\*</b>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
-<I>The 22nd ACM International Conference on Mobile Systems, Applications, and Services</i> (<b>Mobisys 2024</b>)<br>
-<i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661861)[[Code]](https://github.com/YDRen001/ChirpTransformer)<br clear="left"/>
-<font size="1"> </font> 
+<b>SateRIoT: High-performance Ground-Space Networking for Rural IoT (To appear)</b><br>
+<b>Yidong Ren</b>,  Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Yonsuk Dong, Zhichao Cao<br>
+<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <b>Yidong Ren</b>,  Wei Sun, Jialuo Du, Huaili Zeng, Yonsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
 <I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3636534.3649358)[[Code]](https://github.com/YDRen001/Demeter/tree/main)<br clear="left"/>
+<font size="1"> </font> 
+
+<b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
+<b>Yidong Ren\*</b>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
+<I>The 22nd ACM International Conference on Mobile Systems, Applications, and Services</i> (<b>Mobisys 2024</b>)<br>
+<i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661861)[[Code]](https://github.com/YDRen001/ChirpTransformer)<br clear="left"/>
 <font size="1"> </font> 
 
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
