@@ -17,6 +17,7 @@ News
 ======
 
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
+* [06/2024] Gave a talk at Tsinghua University. Thank Prof. Yunhao Liu and Jiliang Wang for the host.<br>
 * [05/2024] Awarded ACM MobiSys'24 Travel Grant.<br>
 * [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
 * [03/2024] One paper accepted to **MobiSys'24** with shepherding.<br>
