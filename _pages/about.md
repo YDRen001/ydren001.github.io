@@ -44,7 +44,7 @@ Publications
 <I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
-<span style="color:orange"><b>Yidong Ren</b></span>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
+<span style="color:orange"><b>Yidong Ren\*</b></span>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
 <I>The 22nd ACM International Conference on Mobile Systems, Applications, and Services</i> (<b>Mobisys 2024</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661861)[[Code]](https://github.com/YDRen001/ChirpTransformer)<br clear="left"/>
 <font size="1"> </font> 
