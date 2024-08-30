@@ -30,7 +30,7 @@ Publications
 ======
 
 <b>SateRIoT: High-performance Ground-Space Networking for Rural IoT (To appear)</b><br>
-<font color="orange"><b>Yidong Ren</b></font>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
+<span style="color:orange">Yidong Ren</span>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
 <I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
