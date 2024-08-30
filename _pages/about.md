@@ -30,7 +30,7 @@ Publications
 ======
 
 <b>SateRIoT: High-performance Ground-Space Networking for Rural IoT (To appear)</b><br>
-<b>Yidong Ren</b>,  Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
+<font color="orange"><b>Yidong Ren</b></font>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
 <I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
@@ -38,6 +38,10 @@ Publications
 <I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3636534.3649358)[[Code]](https://github.com/YDRen001/Demeter/tree/main)<br clear="left"/>
 <font size="1"> </font> 
+
+<b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding (To appear)</b>
+<br>Jialuo Du, <b>Yidong Ren</b>, Li Liu, Zhichao Cao, Yunhao Liu<br>
+<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
 <b>Yidong Ren\*</b>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
