@@ -81,11 +81,12 @@ Academic Service
 <b>Program Committee</b> <br>
 ACM Mobicom'24 Artifact Evaluation<br>
 ACM Mobisys'24 Artifact Evaluation<br>
+IEEE ICPADS'24 Technical Program Committee
 
 <b>Invited Reviewer</b> <br>
 IEEE/ACM Transactions on Networking (2023 2024)<br>
 ACM Transactions on Sensor Network (2022 2023 2024)<br>
-IEEE ICPADS'24, MobiQuitous'22 
+MobiQuitous'22 
 
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=ZCkq05bZ5W9TJLguU2G7tRLb2UefixELw1Ao5pPHLAw&co=2daaad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></body>
