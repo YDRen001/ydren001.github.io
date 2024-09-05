@@ -18,6 +18,7 @@ News
 ======
 
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
+* [08/2024] Serve as Technical Program Committee of ICPADS'24.
 * [06/2024] Gave a talk at Tsinghua University.<br>
 * [05/2024] Awarded ACM MobiSys'24 Travel Grant.<br>
 * [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
