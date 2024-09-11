@@ -86,6 +86,7 @@ IEEE ICPADS'24 Technical Program Committee
 
 <b>Invited Reviewer</b> <br>
 IEEE/ACM Transactions on Networking (2023 2024)<br>
+IEEE Transactions on Mobile Computing (2024)<br>
 ACM Transactions on Sensor Network (2022 2023 2024)<br>
 MobiQuitous'22 
 
