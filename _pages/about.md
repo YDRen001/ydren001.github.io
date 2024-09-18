@@ -82,6 +82,7 @@ Academic Service
 <b>Program Committee</b> <br>
 ACM Mobicom'24 Artifact Evaluation<br>
 ACM Mobisys'24 Artifact Evaluation<br>
+ACM Sensys'24 Artifact Evaluation<br>
 IEEE ICPADS'24 Technical Program Committee
 
 <b>Invited Reviewer</b> <br>
