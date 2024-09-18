@@ -17,7 +17,7 @@ redirect_from:
 News
 ======
 
-* [08/2024] Finished two AI wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
+* [09/2024] Finished two AI wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
 * [08/2024] Serve as Technical Program Committee of ICPADS'24.
 * [06/2024] Gave a talk at Tsinghua University.<br>
