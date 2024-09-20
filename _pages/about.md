@@ -42,7 +42,7 @@ Publications
 <font size="1"> </font> 
 
 <b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding (To appear)</b>
-<br>Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao, Yunhao Liu<br>
+<br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
 <I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
