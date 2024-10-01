@@ -16,7 +16,7 @@ redirect_from:
 
 News
 ======
-
+* [10/2024] One paper accepted to **SenSys'24**.<br>
 * [09/2024] Finished two AI wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
 * [08/2024] Serve as Technical Program Committee of ICPADS'24.
@@ -31,9 +31,11 @@ News
 Publications
 ======
 
-<b>SateRIoT: High-performance Ground-Space Networking for Rural IoT (To appear)</b><br>
+<b>SateRIoT: High-performance Ground-Space Networking for Rural IoT</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
-<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
+<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<be>
+<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-ren-sateriot.pdf) <br clear="left"/>
+<font size="1"> </font>
 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>,  Wei Sun, Jialuo Du, Huaili Zeng, Younsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
@@ -41,9 +43,15 @@ Publications
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3636534.3649358)[[Code]](https://github.com/YDRen001/Demeter/tree/main)<br clear="left"/>
 <font size="1"> </font> 
 
-<b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding (To appear)</b>
+<b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding</b>
 <br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
-<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
+<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<be>
+<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-du.pdf) <br clear="left"/>
+<font size="1"> </font>
+
+<b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
+<br>Gen Li*, Huaili Zeng*, Hanqing Guo, <span style="color:orange"><b>Yidong Ren</b></span>, Aiden Dixon, Zhichao Cao, Tianxing Li<br>
+<I>The 22nd ACM Conference on Embedded Networked Sensor Systems  </i> (<b>SenSys 2024</b>)<be>
 
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
 <span style="color:orange"><b>Yidong Ren\*</b></span>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
