@@ -17,7 +17,7 @@ redirect_from:
 News
 ======
 * [10/2024] One paper accepted to **SenSys'24**.<br>
-* [09/2024] Finished two AI wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
+* [09/2024] Finished two deep learning wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
 * [08/2024] Serve as Technical Program Committee of ICPADS'24.
 * [06/2024] Gave a talk at Tsinghua University.<br>
@@ -102,7 +102,7 @@ MobiQuitous'22
 
 Industrial Experience
 ======
-<b>Qualcomm</b> - Wi-Fi System Team Intern (AI for wireless projects for localization and roaming). 06/2024-09/2024 
+<b>Qualcomm</b> - Wi-Fi System Team Intern (Deep learning on wireless projects for localization and roaming). 06/2024-09/2024 
 
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=ZCkq05bZ5W9TJLguU2G7tRLb2UefixELw1Ao5pPHLAw&co=2daaad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></body>
