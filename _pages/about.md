@@ -33,19 +33,19 @@ Publications
 
 <b>SateRIoT: High-performance Ground-Space Networking for Rural IoT</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
-<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
+<I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-ren-sateriot.pdf) <br clear="left"/>
 <font size="1"> </font>
 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>,  Wei Sun, Jialuo Du, Huaili Zeng, Younsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
-<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
+<I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3636534.3649358)[[Code]](https://github.com/YDRen001/Demeter/tree/main)<br clear="left"/>
 <font size="1"> </font> 
 
 <b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding</b>
 <br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
-<I>The 24th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
+<I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-du.pdf) <br clear="left"/>
 <font size="1"> </font>
 
