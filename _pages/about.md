@@ -16,7 +16,7 @@ redirect_from:
 
 News
 ======
-* [10/2024] One paper accepted to **SenSys'24**.<br>
+* [10/2024] One paper accepted to **SenSys'24**. Awarded ACM MobiCom'24 Travel Grant.<br>
 * [09/2024] Finished two deep learning wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
 * [08/2024] Serve as Technical Program Committee of ICPADS'24.
