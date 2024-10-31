@@ -46,7 +46,7 @@ Publications
 <b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding</b>
 <br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
-<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-du.pdf) <br clear="left"/>
+<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-du.pdf)[[Code](https://github.com/LoRaTrimmer/LoRaTrimmer)[ <br clear="left"/>
 <font size="1"> </font>
 
 <b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
