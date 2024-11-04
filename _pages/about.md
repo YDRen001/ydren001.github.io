@@ -31,7 +31,7 @@ News
 Publications
 ======
 
-<img src="http://ydren001.github.io/images/title-fig/SateRIoT.pdf" align="left" width="250" height="300"/> 
+<img src="http://ydren001.github.io/images/title-fig/SateRIoT.png" align="left" width="250" height="300"/> 
 <b>SateRIoT: High-performance Ground-Space Networking for Rural IoT</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
