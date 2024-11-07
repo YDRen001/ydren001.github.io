@@ -11,7 +11,11 @@ redirect_from:
 <div style="text-align: justify;">
 <p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>. Check out my current <b><a href="https://ydren001.github.io/files/C.V._Yidong.pdf">CV</a></b>.</p>
 
-<p>My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas. Notable works include rural area satellite IoT backhaul (MobiCom'24), cross-soil communication (MobiCom'24), IoT encoder (Mobisys'24), low power communication (INFOCOM'23), urban area measurement (ICNP'22).</p>
+<p>My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas. <br><br>
+  <b>Internet of Things:</b> Rural area satellite IoT backhaul (MobiCom'24). Cross-soil agricultural IoT (MobiCom'24).<br>
+  <b>Low-power Wireless Communication/Networks</b>  Physical layer encoder decoder design (MobiSys’24, MobiCom’24 C6, MobiHoc’23, ICLR’23 ML4IoT). Battery-less communication (INFOCOM’23).<br>
+  <b>Mobile Computing</b>: Wearable system (SenSys’24). Channel-adapted Wi-Fi (TMC’22).<br>
+</p>
 </div>
 
 News
