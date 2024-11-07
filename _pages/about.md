@@ -13,7 +13,7 @@ redirect_from:
 
 <p>My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas. <br><br>
   <b>Internet of Things:</b> Rural area satellite IoT backhaul (MobiCom'24). Cross-soil agricultural IoT (MobiCom'24).<br>
-  <b>Low-power Wireless Communication/Networks</b>  Physical layer encoder decoder design (MobiSys’24, MobiCom’24 C6, MobiHoc’23, ICLR’23 ML4IoT). Battery-less communication (INFOCOM’23).<br>
+  <b>Low-power Wireless Communication/Networks</b>  Physical layer encoder decoder design (MobiSys’24, MobiCom’24, MobiHoc’23, ICLR’23 ML4IoT). Battery-less communication (INFOCOM’23).<br>
   <b>Mobile Computing</b>: Wearable system (SenSys’24). Channel-adapted Wi-Fi (TMC’22).<br>
 </p>
 </div>
