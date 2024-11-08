@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yidong Ren"
   avatar           : "head.jpg"
-  bio              : "CS PhD student @ Network"
+  bio              : "renyidon@msu.edu" 
   location         : "East Lansing, Michigan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6Q81YA0AAAAJ&hl=en&oi=ao"
-  resume           : "https://ydren001.github.io/files/C.V._Yidong.pdf"
+  resume           : 
   email            : "renyidon@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
