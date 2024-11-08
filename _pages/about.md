@@ -36,17 +36,17 @@ Publications
 ======
 
 <img src="http://ydren001.github.io/images/title-fig/SateRIoT.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
-<button type="button" class="btn btn-primary" style="background-color: #FF8C00; color: white;"><b>MobiCom</b></button>
+<button type="button" class="btn btn-primary" style="background-color: #00BFFF; color: white;"><b>MobiCom</b></button>
 <b>SateRIoT: High-performance Ground-Space Networking for Rural IoT</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> <br>
-<button type="button" class="btn btn-primary" href="https://cse.msu.edu/~caozc/papers/mobicom24-ren-sateriot.pdf" role="button">PDF</button> <br clear="left"/>
-<!--<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-ren-sateriot.pdf) <br clear="left"/>-->
+<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-ren-sateriot.pdf) <br clear="left"/>
 <font size="1"> </font>
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="260" height="110" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="260" height="110" style="margin-right: 15px;"/>
+<button type="button" class="btn btn-primary" style="background-color: #00BFFF; color: white;"><b>MobiCom</b></button>
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>,  Wei Sun, Jialuo Du, Huaili Zeng, Younsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
@@ -56,7 +56,8 @@ Publications
 <br>
 <br>
   
-<img src="http://ydren001.github.io/images/title-fig/LoRaTrimmer.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/LoRaTrimmer.png" align="left" width="270" height="150" style="margin-right: 15px;"/>
+<button type="button" class="btn btn-primary" style="background-color: #00BFFF; color: white;"><b>MobiCom</b></button>
 <b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding</b>
 <br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
@@ -65,18 +66,23 @@ Publications
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/Piezobud.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
-<b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
-<br>Gen Li*, Huaili Zeng*, Hanqing Guo, <span style="color:orange"><b>Yidong Ren</b></span>, Aiden Dixon, Zhichao Cao, Tianxing Li<br>
-<I>The 22nd ACM Conference on Embedded Networked Sensor Systems  </i> (<b>SenSys 2024</b>)<be>
-
-<br>
-
+<img src="http://ydren001.github.io/images/title-fig/chirptransformer.png" align="left" width="270" height="150" style="margin-right: 15px;"/>
+<button type="button" class="btn btn-primary" style="background-color: #00BFFF; color: white;"><b>MobiSys</b></button>
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
 <span style="color:orange"><b>Yidong Ren\*</b></span>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
 <I>The 22nd ACM International Conference on Mobile Systems, Applications, and Services</i> (<b>Mobisys 2024</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661861)[[Code]](https://github.com/YDRen001/ChirpTransformer)<br clear="left"/>
 <font size="1"> </font> 
+
+<br>
+
+<img src="http://ydren001.github.io/images/title-fig/Piezobud.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
+<button type="button" class="btn btn-primary" style="background-color: #00BFFF; color: white;"><b>SenSys</b></button>
+<b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
+<br>Gen Li*, Huaili Zeng*, Hanqing Guo, <span style="color:orange"><b>Yidong Ren</b></span>, Aiden Dixon, Zhichao Cao, Tianxing Li<br>
+<I>The 22nd ACM Conference on Embedded Networked Sensor Systems  </i> (<b>SenSys 2024</b>)<be>
+
+<br>
 
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
 <br>Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> (<b>MobiHoc 2023</b>)<br>
