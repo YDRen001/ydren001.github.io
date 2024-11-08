@@ -45,7 +45,7 @@ Publications
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="260" height="130" style="margin-right: 15px;"/> 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>,  Wei Sun, Jialuo Du, Huaili Zeng, Younsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
