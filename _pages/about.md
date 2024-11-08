@@ -36,7 +36,7 @@ Publications
 ======
 
 <img src="http://ydren001.github.io/images/title-fig/SateRIoT.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
-<button type="button" class="btn btn-primary" style="font-size: 14px; background-color: #00BFFF; color: white; padding: 4px 8px; border-radius: 3px;"><b>MobiCom</b></button>
+<button type="button" class="btn btn-primary" style="font-size: 16px; background-color: #00BFFF; color: white; padding: 4px 8px; border-radius: 3px;"><b>MobiCom</b></button>
 <b>SateRIoT: High-performance Ground-Space Networking for Rural IoT</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> <br>
@@ -45,7 +45,7 @@ Publications
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="270" height="110" style="margin-right: 15px;"/>
+<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="270" height="150" style="margin-right: 15px;"/>
 <button type="button" class="btn btn-primary" style="background-color: #00BFFF; color: white;"><b>MobiCom</b></button>
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>,  Wei Sun, Jialuo Du, Huaili Zeng, Younsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
