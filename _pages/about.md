@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-<p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>. Check out my current <b><a href="https://ydren001.github.io/files/C.V._Yidong.pdf">CV</a></b>.</p>
+<p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>. </p>
 
-<p>My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas. <br><br>
+<p>My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas. <br>
   <p style="margin-bottom: 6px;">
   <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #00BFFF; color: white; padding: 4px 6px; border-radius: 3px;"><b>Internet of Things (IoT)</b></button>
   Rural area satellite IoT backhaul (MobiCom'24). Cross-soil agricultural IoT (MobiCom'24).<br>
@@ -102,11 +102,13 @@ Publications
 
 
 <img src="http://ydren001.github.io/images/title-fig/nelora.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
+<p>
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #00BFFF; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICLR ML4IoT 2023</b></button>
 <b>NELoRa-Bench: A Benchmark for Neural-enhanced LoRa Demodulation</b><br>
 Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>International Conference on Learning Representations Workshop on Machine Learning for IoT, 2023<b>(Oral)</b> </i> <br>
 <i>[[PDF]](https://arxiv.org/pdf/2305.01573.pdf)[[Code]](https://github.com/daibiaoxuwu/NeLoRa_Dataset)[[Video]](https://iclr.cc/virtual/2023/14753)<br clear="left"/>
 <font size="1"> </font> 
+</p>
 
 <br>
 
