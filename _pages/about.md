@@ -68,7 +68,7 @@ Publications
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #00BFFF; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024</b></button>
 <b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding</b>
 <br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
-<I>The 30th Annual International Conference on Mobile Computing and Networking</i> <br>
+<I>The 30th Annual International Conference on Mobile Computing and Networking, 2024</i> <br>
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-du.pdf)[[Code](https://github.com/LoRaTrimmer/LoRaTrimmer)[ <br clear="left"/>
 <font size="1"> </font>
 
@@ -78,7 +78,7 @@ Publications
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #00BFFF; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiSys 2024</b></button>
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
 <span style="color:orange"><b>Yidong Ren\*</b></span>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
-<I>The 22nd ACM International Conference on Mobile Systems, Applications, and Services. </i> <br>
+<I>The 22nd ACM International Conference on Mobile Systems, Applications, and Services, 2024 </i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661861)[[Code]](https://github.com/YDRen001/ChirpTransformer)<br clear="left"/>
 <font size="1"> </font> 
 
@@ -88,7 +88,7 @@ Publications
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #00BFFF; color: white; padding: 4px 6px; border-radius: 3px;"><b>SenSys 2024</b></button>
 <b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
 <br>Gen Li*, Huaili Zeng*, Hanqing Guo, <span style="color:orange"><b>Yidong Ren</b></span>, Aiden Dixon, Zhichao Cao, Tianxing Li<br>
-<I>The 22nd ACM Conference on Embedded Networked Sensor Systems  </i> <br>
+<I>The 22nd ACM Conference on Embedded Networked Sensor Systems, 2024 </i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3666025.3699358) <br clear="left"/>
 
 <br>
@@ -96,7 +96,7 @@ Publications
 <img src="http://ydren001.github.io/images/title-fig/SRLoRa.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #00BFFF; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiHoc 2023</b></button>
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
-<br>Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Zhuizhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing</i> <br>
+<br>Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Zhui Zhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2023</i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3565287.3610254) <br clear="left"/>
 <font size="1"> </font>
 
@@ -122,7 +122,7 @@ Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Mi Zhang, Yunhao
 <img src="http://ydren001.github.io/images/title-fig/losee.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #00BFFF; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICNP 2022</b></button>
 <b>Is Lorawan Really Wide? Fine-grained LoRa Link-level Measurement in An Urban Environment</b><br>
-<span style="color:orange"><b>Yidong Ren\*</b></span>, Li Liu\*, Chenning Li\*, Zhichao Cao and Shigang Chen<br><I>IEEE 30th International Conference on Network Protocols</i><br>
+<span style="color:orange"><b>Yidong Ren\*</b></span>, Li Liu\*, Chenning Li\*, Zhichao Cao and Shigang Chen<br><I>IEEE 30th International Conference on Network Protocols, 2022</i><br>
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/icnp22-ren-liu.pdf)[[Code]](https://github.com/lilygeek/LoSee_ICNP) <br clear="left"/>
 <font size="1"> </font>
 
