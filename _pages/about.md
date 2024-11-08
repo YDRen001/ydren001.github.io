@@ -45,18 +45,24 @@ Publications
 
 <br>
 
+<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>,  Wei Sun, Jialuo Du, Huaili Zeng, Younsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3636534.3649358)[[Code]](https://github.com/YDRen001/Demeter/tree/main)<br clear="left"/>
 <font size="1"> </font> 
 
+<br>
+
+<img src="http://ydren001.github.io/images/title-fig/LoRaTrimmer.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
 <b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding</b>
 <br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking  </i> (<b>Mobicom 2024</b>)<br>
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-du.pdf)[[Code](https://github.com/LoRaTrimmer/LoRaTrimmer)[ <br clear="left"/>
 <font size="1"> </font>
 
+<br>
+<img src="http://ydren001.github.io/images/title-fig/Piezobud.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
 <b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
 <br>Gen Li*, Huaili Zeng*, Hanqing Guo, <span style="color:orange"><b>Yidong Ren</b></span>, Aiden Dixon, Zhichao Cao, Tianxing Li<br>
 <I>The 22nd ACM Conference on Embedded Networked Sensor Systems  </i> (<b>SenSys 2024</b>)<br>
