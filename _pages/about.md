@@ -62,10 +62,13 @@ Publications
 <font size="1"> </font>
 
 <br>
+
 <img src="http://ydren001.github.io/images/title-fig/Piezobud.png" align="left" width="270" height="150" style="margin-right: 15px;"/> 
 <b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
 <br>Gen Li*, Huaili Zeng*, Hanqing Guo, <span style="color:orange"><b>Yidong Ren</b></span>, Aiden Dixon, Zhichao Cao, Tianxing Li<br>
-<I>The 22nd ACM Conference on Embedded Networked Sensor Systems  </i> (<b>SenSys 2024</b>)<br>
+<I>The 22nd ACM Conference on Embedded Networked Sensor Systems  </i> (<b>SenSys 2024</b>)<be>
+
+<br>
 
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
 <span style="color:orange"><b>Yidong Ren\*</b></span>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
