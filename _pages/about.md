@@ -102,13 +102,12 @@ Publications
 
 
 <img src="http://ydren001.github.io/images/title-fig/nelora.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
-<p>
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #00BFFF; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICLR ML4IoT 2023</b></button>
 <b>NELoRa-Bench: A Benchmark for Neural-enhanced LoRa Demodulation</b><br>
 Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>International Conference on Learning Representations Workshop on Machine Learning for IoT, 2023<b>(Oral)</b> </i> <br>
 <i>[[PDF]](https://arxiv.org/pdf/2305.01573.pdf)[[Code]](https://github.com/daibiaoxuwu/NeLoRa_Dataset)[[Video]](https://iclr.cc/virtual/2023/14753)<br clear="left"/>
 <font size="1"> </font> 
-</p>
+
 
 <br>
 
