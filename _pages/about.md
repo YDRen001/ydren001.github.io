@@ -28,7 +28,7 @@ redirect_from:
 
 News
 ======
-* [11/2024] Awarded ACM MobiCom'24 **Distinguished Artifact Reviewers!** <br>
+* [11/2024] Awarded ACM MobiCom'24 **Distinguished Artifact Reviewer!** <br>
 * [10/2024] One paper accepted to **SenSys'24**. Awarded ACM MobiCom'24 Travel Grant.<br>
 * [09/2024] Finished two deep learning wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
@@ -151,6 +151,16 @@ IEEE/ACM Transactions on Networking (2023 2024)<br>
 IEEE Transactions on Mobile Computing (2024)<br>
 ACM Transactions on Sensor Network (2022 2023 2024)<br>
 MobiQuitous'22 
+
+Awards
+======
+ACM MobiCom Distinguished Artifact Reviewer, 2024
+Michigan State University Dissertation Completion Fellowship, 2025 
+ACM MobiCom Travel Grant, 2024
+ACM MobiSys Travel Grant
+ACM MobiHoc Travel Grant
+IEEE ICNP Travel Grant
+
 
 Industrial Experience
 ======
