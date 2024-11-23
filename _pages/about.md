@@ -13,7 +13,7 @@ redirect_from:
   
   <p style="margin-bottom: 6px;">
   <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>Internet of Things (IoT)</b></button>
-  Rural area satellite IoT backhaul (MobiCom'24). Cross-soil agricultural IoT (MobiCom'24).<br>
+  Satellite IoT for rural backhaul (MobiCom'24). Agricultural IoT (MobiCom'24).<br>
   </p>
   <p style="margin-bottom: 6px;">
   <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>Low-power Wireless Communication/Networks</b></button>
