@@ -154,12 +154,12 @@ MobiQuitous'22
 
 Awards
 ======
-ACM MobiCom Distinguished Artifact Reviewer, 2024
-Michigan State University Dissertation Completion Fellowship, 2025 
-ACM MobiCom Travel Grant, 2024
-ACM MobiSys Travel Grant
-ACM MobiHoc Travel Grant
-IEEE ICNP Travel Grant
+ACM MobiCom Distinguished Artifact Reviewer, 2024 <br>
+Michigan State University Dissertation Completion Fellowship, 2025 <br> 
+ACM MobiCom Travel Grant, 2024 <br>
+ACM MobiSys Travel Grant, 2024 <br>
+ACM MobiHoc Travel Grant, 2023 <br>
+IEEE ICNP Travel Grant, 2022 <br>
 
 
 Industrial Experience
