@@ -28,11 +28,12 @@ redirect_from:
 
 News
 ======
+* [11/2024] Serve as USENIX Security'25 Artifact Evaluation Committee <br>
 * [11/2024] Awarded ACM MobiCom'24 **Distinguished Artifact Reviewer!** <br>
 * [10/2024] One paper accepted to **SenSys'24**. Awarded ACM MobiCom'24 Travel Grant.<br>
 * [09/2024] Finished two deep learning wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
-* [08/2024] Serve as Technical Program Committee of ICPADS'24.
+* [08/2024] Serve as Technical Program Committee of ICPADS'24. <br>
 * [06/2024] Gave a talk at Tsinghua University.<br>
 * [05/2024] Awarded ACM MobiSys'24 Travel Grant.<br>
 * [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
