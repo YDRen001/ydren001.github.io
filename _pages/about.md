@@ -53,6 +53,7 @@ Publications
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-ren-sateriot.pdf) <br clear="left"/>
 <font size="1"> </font>
 
+<br>
 
 <img src="http://ydren001.github.io/images/title-fig/demeter.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024b</b></button>
@@ -86,6 +87,7 @@ Publications
 <I>The 22nd ACM Conference on Embedded Networked Sensor Systems, 2024 </i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3666025.3699358) <br clear="left"/>
 
+<br>
 
 <img src="http://ydren001.github.io/images/title-fig/SRLoRa.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;"> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiHoc 2023</b></button>
@@ -108,6 +110,8 @@ Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>Intern
 <b>Yidong Ren</b>, Puyu Cai, Jinyan Jiang, Jialuo Du, and Zhichao Cao<br><I>IEEE International Conference on Computer Communications, 2023</i><br>
 <i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/10228960) <br clear="left"/>
 <font size="1"> </font>
+
+<br>
 
 <img src="http://ydren001.github.io/images/title-fig/losee.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;"> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICNP 2022</b></button>
