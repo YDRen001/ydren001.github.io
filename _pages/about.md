@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-<p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>. My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas.  <a href="https://ydren001.github.io/files/C.V._Yidong.pdf"><i class="fas fa-file-pdf"></i> Resume</a><br>
+<p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>. My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas.  Check out my <a href="https://ydren001.github.io/files/C.V._Yidong.pdf"><i class="fas fa-file-pdf"></i> Resume</a><br>
   
   <p style="margin-bottom: 6px;">
-  <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>Internet of Things (IoT)</b></button>
-  Satellite IoT for rural backhaul (MobiCom'24). Agricultural IoT (MobiCom'24).<br>
+  <b>Rural IoT System</b>: Satellite IoT for rural backhaul (MobiCom'24a). Underground agricultural IoT (MobiCom'24b).<br>
   </p>
   <p style="margin-bottom: 6px;">
-  <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>Low-power Wireless Communication/Networks</b></button>
-  Physical layer encoder decoder design (MobiSys’24, MobiCom’24, MobiHoc’23, ICLR’23 ML4IoT). Battery-less communication (INFOCOM’23).<br>
+  <b>ML for IoT</b>: Encoder decoder design (MobiSys’24, MobiHoc’23, ICLR’23 ML4IoT). <br>
   </p>
   <p style="margin-bottom: 6px;">
-  <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>Mobile Computing</b></button>
-  Wearable system (SenSys’24). Channel-adapted Wi-Fi (TMC’22).<br>
+  <b>IoT Physical Layer</b>: Batteryless communication (INFOCOM'23). LoRa demodulation (LoRaTrimmer MobiCom'24c).<br>
+  </p>
+  <p style="margin-bottom: 6px;">
+  <b>Mobile Computing</b>: Wearable system (SenSys’24). Channel-adapted Wi-Fi (TMC’22).<br>
   </p>
 </p>
 </div>
