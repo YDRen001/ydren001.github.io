@@ -142,6 +142,7 @@ Yanbo Zhang, Weiping Sun, <span style="color:orange"><b>Yidong Ren</b></span>, S
 Academic Service
 ======
 <b>Program Committee</b> <br>
+USENIX Security'25 Artifact Evaluation<br>
 ACM Mobicom'24 Artifact Evaluation<br>
 ACM Mobisys'24 Artifact Evaluation<br>
 ACM Sensys'24 Artifact Evaluation<br>
