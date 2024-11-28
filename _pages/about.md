@@ -46,7 +46,7 @@ Publications
 ======
 
 <img src="http://ydren001.github.io/images/title-fig/SateRIoT.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
-<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024</b></button>
+<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024a</b></button>
 <b>SateRIoT: High-performance Ground-Space Networking for Rural IoT</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>, Amalinda Gamage, Li Liu, Mo Li, Shigang Chen, Younsuk Dong, Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking, 2024 </i> <br>
@@ -56,7 +56,7 @@ Publications
 <br>
 
 <img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="243" height="135" style="margin-right: 15px;"/>
-<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024</b></button>
+<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024b</b></button>
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>,  Wei Sun, Jialuo Du, Huaili Zeng, Younsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking, 2024  </i> <br>
@@ -66,7 +66,7 @@ Publications
 <br>
   
 <img src="http://ydren001.github.io/images/title-fig/LoRaTrimmer.png" align="left" width="243" height="135" style="margin-right: 15px;"/>
-<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024</b></button>
+<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: #85c1e9; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024c</b></button>
 <b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding</b>
 <br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
 <I>The 30th Annual International Conference on Mobile Computing and Networking, 2024</i> <br>
