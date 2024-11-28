@@ -53,7 +53,6 @@ Publications
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-ren-sateriot.pdf) <br clear="left"/>
 <font size="1"> </font>
 
-<br>
 
 <img src="http://ydren001.github.io/images/title-fig/demeter.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024b</b></button>
@@ -63,7 +62,6 @@ Publications
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3636534.3649358)[[Code]](https://github.com/YDRen001/Demeter/tree/main)<br clear="left"/>
 <font size="1"> </font> 
 
-<br>
   
 <img src="http://ydren001.github.io/images/title-fig/LoRaTrimmer.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024c</b></button>
@@ -73,8 +71,6 @@ Publications
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom24-du.pdf)[[Code](https://github.com/LoRaTrimmer/LoRaTrimmer)[ <br clear="left"/>
 <font size="1"> </font>
 
-<br>
-
 <img src="http://ydren001.github.io/images/title-fig/chirptransformer.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiSys 2024</b></button>
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
@@ -83,8 +79,6 @@ Publications
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661861)[[Code]](https://github.com/YDRen001/ChirpTransformer)<br clear="left"/>
 <font size="1"> </font> 
 
-<br>
-
 <img src="http://ydren001.github.io/images/title-fig/Piezobud.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;"> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>SenSys 2024</b></button>
 <b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
@@ -92,7 +86,6 @@ Publications
 <I>The 22nd ACM Conference on Embedded Networked Sensor Systems, 2024 </i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3666025.3699358) <br clear="left"/>
 
-<br>
 
 <img src="http://ydren001.github.io/images/title-fig/SRLoRa.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;"> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiHoc 2023</b></button>
@@ -100,7 +93,6 @@ Publications
 <br>Jialuo Du, <b>Yidong Ren</b>, Zhui Zhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2023</i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3565287.3610254) <br clear="left"/>
 <font size="1"> </font>
-
 
 <img src="http://ydren001.github.io/images/title-fig/nelora.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICLR ML4IoT 2023</b></button>
@@ -110,16 +102,12 @@ Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>Intern
 <font size="1"> </font> 
 
 
-<br>
-
 <img src="http://ydren001.github.io/images/title-fig/prism.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;"> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>INFOCOM 2023</b></button>
 <b>Prism: High-throughput LoRa Backscatter with Non-linear Chirps</b><br>
 <b>Yidong Ren</b>, Puyu Cai, Jinyan Jiang, Jialuo Du, and Zhichao Cao<br><I>IEEE International Conference on Computer Communications, 2023</i><br>
 <i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/10228960) <br clear="left"/>
 <font size="1"> </font>
-
-<br>
 
 <img src="http://ydren001.github.io/images/title-fig/losee.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;"> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICNP 2022</b></button>
@@ -128,7 +116,6 @@ Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>Intern
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/icnp22-ren-liu.pdf)[[Code]](https://github.com/lilygeek/LoSee_ICNP) <br clear="left"/>
 <font size="1"> </font>
 
-<br>
 
 <img src="http://ydren001.github.io/images/title-fig/winas.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;"> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>TMC</b></button>
