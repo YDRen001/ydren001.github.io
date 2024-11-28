@@ -18,7 +18,7 @@ redirect_from:
   <b>ML for IoT</b>: Encoder decoder design (MobiSys’24, MobiHoc’23, ICLR’23 ML4IoT). <br>
   </p>
   <p style="margin-bottom: 6px;">
-  <b>IoT Physical Layer</b>: Batteryless communication (INFOCOM'23). LoRa demodulation (LoRaTrimmer MobiCom'24c).<br>
+  <b>IoT Physical Layer</b>: Batteryless communication (INFOCOM'23). LoRa demodulation (MobiCom'24c).<br>
   </p>
   <p style="margin-bottom: 6px;">
   <b>Mobile Computing</b>: Wearable system (SenSys’24). Channel-adapted Wi-Fi (TMC’22).<br>
