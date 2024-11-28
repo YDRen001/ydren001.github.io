@@ -55,7 +55,7 @@ Publications
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="243" height="135" style="margin-right: 15px;"/>
+<img src="http://ydren001.github.io/images/title-fig/demeter.png" align="left" width="220" height="120" style="margin-right: 15px;"/>
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024b</b></button>
 <b>Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>,  Wei Sun, Jialuo Du, Huaili Zeng, Younsuk Dong, Mi Zhang, Shigang Chen, Yunhao Liu, Tianxing Li and Zhichao Cao<br>
@@ -65,7 +65,7 @@ Publications
 
 <br>
   
-<img src="http://ydren001.github.io/images/title-fig/LoRaTrimmer.png" align="left" width="243" height="135" style="margin-right: 15px;"/>
+<img src="http://ydren001.github.io/images/title-fig/LoRaTrimmer.png" align="left" width="220" height="120" style="margin-right: 15px;"/>
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024c</b></button>
 <b>LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding</b>
 <br>Jialuo Du, Yunhao Liu, <span style="color:orange"><b>Yidong Ren</b></span>, Li Liu, Zhichao Cao<br>
@@ -75,7 +75,7 @@ Publications
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/chirptransformer.png" align="left" width="243" height="135" style="margin-right: 15px;"/>
+<img src="http://ydren001.github.io/images/title-fig/chirptransformer.png" align="left" width="220" height="120" style="margin-right: 15px;"/>
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiSys 2024</b></button>
 <b>ChirpTransformer: Versatile LoRa Encoding for Low-power Wide-area IoT</b><br>
 <span style="color:orange"><b>Yidong Ren\*</b></span>, Chenning Li\*, Shuai Tong, Shakhrul Iman Siam, Mi Zhang, Jiliang Wang, Yunhao Liu, Zhichao Cao<br>
@@ -85,7 +85,7 @@ Publications
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/Piezobud.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/Piezobud.png" align="left" width="220" height="120" style="margin-right: 15px;"/> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>SenSys 2024</b></button>
 <b>PiezoBuds: Piezo-Aided Secure Earbuds with Practical Speaker Authentication</b>
 <br>Gen Li*, Huaili Zeng*, Hanqing Guo, <span style="color:orange"><b>Yidong Ren</b></span>, Aiden Dixon, Zhichao Cao, Tianxing Li<br>
@@ -94,7 +94,7 @@ Publications
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/SRLoRa.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/SRLoRa.png" align="left" width="220" height="120" style="margin-right: 15px;"/> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiHoc 2023</b></button>
 <b>SRLoRa: Neural-enhanced LoRa Weak Signal Decoding with Multi-gateway Super Resolution</b>
 <br>Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Zhui Zhu, Chenning Li, Zhichao Cao, Qiang Ma and Yunhao Liu<br><I>The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 2023</i> <br>
@@ -102,7 +102,7 @@ Publications
 <font size="1"> </font>
 
 
-<img src="http://ydren001.github.io/images/title-fig/nelora.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/nelora.png" align="left" width="220" height="120" style="margin-right: 15px;"/> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICLR ML4IoT 2023</b></button>
 <b>NELoRa-Bench: A Benchmark for Neural-enhanced LoRa Demodulation</b><br>
 Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>International Conference on Learning Representations Workshop on Machine Learning for IoT, 2023<b>(Oral)</b> </i> <br>
@@ -112,7 +112,7 @@ Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Mi Zhang, Yunhao
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/prism.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/prism.png" align="left" width="220" height="120" style="margin-right: 15px;"/> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>INFOCOM 2023</b></button>
 <b>Prism: High-throughput LoRa Backscatter with Non-linear Chirps</b><br>
 <span style="color:orange"><b>Yidong Ren</b></span>, Puyu Cai, Jinyan Jiang, Jialuo Du, and Zhichao Cao<br><I>IEEE International Conference on Computer Communications, 2023</i><br>
@@ -121,7 +121,7 @@ Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Mi Zhang, Yunhao
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/losee.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/losee.png" align="left" width="220" height="120" style="margin-right: 15px;"/> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICNP 2022</b></button>
 <b>Is Lorawan Really Wide? Fine-grained LoRa Link-level Measurement in An Urban Environment</b><br>
 <span style="color:orange"><b>Yidong Ren\*</b></span>, Li Liu\*, Chenning Li\*, Zhichao Cao and Shigang Chen<br><I>IEEE 30th International Conference on Network Protocols, 2022</i><br>
@@ -130,7 +130,7 @@ Jialuo Du, <span style="color:orange"><b>Yidong Ren</b></span>, Mi Zhang, Yunhao
 
 <br>
 
-<img src="http://ydren001.github.io/images/title-fig/winas.png" align="left" width="243" height="135" style="margin-right: 15px;"/> 
+<img src="http://ydren001.github.io/images/title-fig/winas.png" align="left" width="220" height="120" style="margin-right: 15px;"/> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>TMC</b></button
 <b>Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput</b><br>
 Yanbo Zhang, Weiping Sun, <span style="color:orange"><b>Yidong Ren</b></span>, Sung-ju Lee and Mo Li<br><I>IEEE Transactions on Mobile Computing, 2022</i><br>
