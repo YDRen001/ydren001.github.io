@@ -116,7 +116,7 @@ Jialuo Du, <b>Yidong Ren</b>, Mi Zhang, Yunhao Liu, and Zhichao Cao<br><I>Intern
 <img src="http://ydren001.github.io/images/title-fig/losee.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;"> 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>ICNP 2022</b></button>
 <b>Is Lorawan Really Wide? Fine-grained LoRa Link-level Measurement in An Urban Environment</b><br>
-<span style="color:orange"><b>Yidong Ren\*</b></span>, Li Liu\*, Chenning Li\*, Zhichao Cao and Shigang Chen<br><I>IEEE 30th International Conference on Network Protocols, 2022</i><br>
+<b>Yidong Ren\*</b>, Li Liu\*, Chenning Li\*, Zhichao Cao and Shigang Chen<br><I>IEEE 30th International Conference on Network Protocols, 2022</i><br>
 <i>[[PDF]](https://cse.msu.edu/~caozc/papers/icnp22-ren-liu.pdf)[[Code]](https://github.com/lilygeek/LoSee_ICNP) <br clear="left"/>
 <font size="1"> </font>
 
