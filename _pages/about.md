@@ -12,7 +12,7 @@ redirect_from:
 <p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>. My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas.  Check out my <a href="https://ydren001.github.io/files/C.V._Yidong.pdf"><i class="fas fa-file-pdf"></i> Resume</a><br>
   
   <p style="margin-bottom: 6px;">
-  <b>Rural IoT System</b>: Satellite IoT for rural backhaul (MobiCom'24a). Underground agricultural IoT (MobiCom'24b).<br>
+  <b>Sustainable IoT</b>: Satellite IoT for rural backhaul (MobiCom'24a). Underground agricultural IoT (MobiCom'24b).<br>
   </p>
   <p style="margin-bottom: 6px;">
   <b>ML for IoT</b>: Encoder decoder design (MobiSys’24, MobiHoc’23, ICLR’23 ML4IoT). <br>
