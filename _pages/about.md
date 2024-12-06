@@ -18,7 +18,7 @@ redirect_from:
   <b>ML for IoT</b>: Encoder decoder design (MobiSys’24, MobiHoc’23, ICLR’23 ML4IoT). <br>
   </p>
   <p style="margin-bottom: 6px;">
-  <b>IoT Physical Layer</b>: Batteryless communication (INFOCOM'23). LoRa demodulation (MobiCom'24c).<br>
+  <b>IoT Physical Layer</b>: Batteryless communication (INFOCOM'23, INFOCOM'25). LoRa demodulation (MobiCom'24c).<br>
   </p>
   <p style="margin-bottom: 6px;">
   <b>Mobile Computing</b>: Wearable system (SenSys’24). Channel-adapted Wi-Fi (TMC’22).<br>
@@ -28,6 +28,7 @@ redirect_from:
 
 News
 ======
+* [12/2024] One paper accepted to **INFOCOM'25**.<br>
 * [11/2024] Serve as USENIX Security'25 Artifact Evaluation Committee <br>
 * [11/2024] Awarded ACM MobiCom'24 **Distinguished Artifact Reviewer!** <br>
 * [10/2024] One paper accepted to **SenSys'24**. Awarded ACM MobiCom'24 Travel Grant.<br>
@@ -44,6 +45,15 @@ News
 
 Publications
 ======
+
+<img src="http://ydren001.github.io/images/title-fig/Aeroecho.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
+<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>INFOCOM 2025</b></button>
+<b>AeroEcho: Towards Agricultural Low-power Wide-area Backscatter with Aerial Excitation Source. (To appear)</b><br>
+<b>Yidong Ren</b>, Gen Li, Yimeng Liu, Younsuk Dong, Zhichao Cao<br>
+<I>IEEE International Conference on Computer Communications, 2025</i> <br>
+<font size="1"> </font>
+<br>
+<br>
 
 <img src="http://ydren001.github.io/images/title-fig/SateRIoT.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2024a</b></button>
