@@ -28,6 +28,7 @@ redirect_from:
 
 News
 ======
+* [10/2024] One paper accepted to **SenSys'25**.
 * [12/2024] One paper accepted to **INFOCOM'25**.<br>
 * [11/2024] Serve as USENIX Security'25 Artifact Evaluation Committee <br>
 * [11/2024] Awarded ACM MobiCom'24 **Distinguished Artifact Reviewer!** <br>
@@ -173,6 +174,13 @@ Industrial Experience
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=ZCkq05bZ5W9TJLguU2G7tRLb2UefixELw1Ao5pPHLAw&co=2daaad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></body>
 
 <!--
+
+
+<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>SenSys 2025</b></button>
+<b>Proteus: Enhanced mmWave Leaf Wetness Detection with Cross-Modality Knowledge Transfer (To appear)</b><br>
+Yimeng Liu, Maolin Gan, Huaili Zeng, <b>Yidong Ren</b>, Gen Li, Jingkai Lin, Younsuk Dong, Xiaobo Tan, Zhichao Cao<br>
+<I>The 23nd ACM Conference on Embedded Networked Sensor Systems, 2025 </i> <br>
+<font size="1"> </font>
 
 **Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment**
 
