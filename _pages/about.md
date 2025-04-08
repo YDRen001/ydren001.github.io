@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-<p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>. My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in rural areas.  Check out my <a href="https://ydren001.github.io/files/C.V._Yidong.pdf"><i class="fas fa-file-pdf"></i> Resume</a><br>
+<p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from the University of Electronic Science and Technology of China in 2021. I was a research intern at Nanyang Technological University in 2019, advised by Professor <a href="https://home.cse.ust.hk/~lim/">Mo Li</a>. My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in agriculture. Check out my <a href="https://ydren001.github.io/files/C.V._Yidong.pdf"><i class="fas fa-file-pdf"></i> Resume</a><br>
   
   <p style="margin-bottom: 6px;">
-  <b>Sustainable IoT</b>: Satellite IoT for rural backhaul (MobiCom'24a). Underground agricultural IoT (MobiCom'24b).<br>
+  <b>Sustainable Agricultural IoT</b>: MobiCom'24a, MobiCom'24b.<br>
   </p>
   <p style="margin-bottom: 6px;">
-  <b>ML for IoT</b>: Encoder decoder design (MobiSys’24, MobiHoc’23, ICLR’23 ML4IoT). <br>
+  <b>IoT Encoder Decoder</b>: MobiSys’24, MobiCom'24c, MobiHoc’23, ICLR’23 ML4IoT. <br>
   </p>
   <p style="margin-bottom: 6px;">
-  <b>IoT Physical Layer</b>: Batteryless communication (INFOCOM'23, INFOCOM'25). LoRa demodulation (MobiCom'24c).<br>
+  <b>Battery-less IoT</b>: INFOCOM'23, INFOCOM'25.<br>
   </p>
   <p style="margin-bottom: 6px;">
-  <b>Mobile Computing</b>: Wearable system (SenSys’24). Channel-adapted Wi-Fi (TMC’22).<br>
+  <b>Mobile Computing and Sensing</b>: SenSys'25, SenSys’24, TMC’22.<br>
   </p>
 </p>
 </div>
@@ -47,11 +47,22 @@ News
 Publications
 ======
 
+<img src="http://ydren001.github.io/images/title-fig/proteus.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
+<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>SenSys 2025</b></button>
+<b>Proteus: Enhanced mmWave Leaf Wetness Detection with Cross-Modality Knowledge Transfer. </b>
+<br> Yimeng Liu, Maolin Gan, Huaili Zeng, <b>Yidong Ren</b>, Gen Li, Jingkai Lin, Younsuk Dong, Xiaobo Tan, Zhichao Cao<br>
+<I>The 23rd ACM Conference on Embedded Networked Sensor Systems, 2025</i> <br>
+<i>[[PDF]](https://www.cse.msu.edu/~caozc/papers/sensys25-liu.pdf) <br clear="left"/>
+<font size="1"> </font>
+<br>
+<br>
+
 <img src="http://ydren001.github.io/images/title-fig/Aeroecho.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>INFOCOM 2025</b></button>
-<b>AeroEcho: Towards Agricultural Low-power Wide-area Backscatter with Aerial Excitation Source. (To appear)</b><br>
+<b>AeroEcho: Towards Agricultural Low-power Wide-area Backscatter with Aerial Excitation Source. </b><br>
 <b>Yidong Ren</b>, Gen Li, Yimeng Liu, Younsuk Dong, Zhichao Cao<br>
 <I>IEEE International Conference on Computer Communications, 2025</i> <br>
+<i>[[PDF]](https://cse.msu.edu/~caozc/papers/infocom25-ren.pdf) <br clear="left"/>
 <font size="1"> </font>
 <br>
 <br>
