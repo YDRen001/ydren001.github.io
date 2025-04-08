@@ -28,7 +28,7 @@ redirect_from:
 
 News
 ======
-* [10/2024] One paper accepted to **SenSys'25**.
+* [03/2025] One paper accepted to **SenSys'25**.
 * [12/2024] One paper accepted to **INFOCOM'25**.<br>
 * [11/2024] Serve as USENIX Security'25 Artifact Evaluation Committee <br>
 * [11/2024] Awarded ACM MobiCom'24 **Distinguished Artifact Reviewer!** <br>
@@ -41,7 +41,6 @@ News
 * [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
 * [03/2024] One paper accepted to **MobiSys'24** with shepherding.<br>
 * [02/2024] Serve as ACM MobiCom'24 Artifact Evaluation Committee.<br>
-* [11/2023] One paper accepted to **MobiCom'24** with shepherding.<br>
 <br>
 
 Publications
@@ -54,7 +53,6 @@ Publications
 <I>The 23rd ACM Conference on Embedded Networked Sensor Systems, 2025</i> <br>
 <i>[[PDF]](https://www.cse.msu.edu/~caozc/papers/sensys25-liu.pdf) <br clear="left"/>
 <font size="1"> </font>
-<br>
 <br>
 
 <img src="http://ydren001.github.io/images/title-fig/Aeroecho.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
@@ -155,17 +153,19 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 Academic Service
 ======
 <b>Program Committee</b> <br>
-USENIX Security'25 Artifact Evaluation<br>
-ACM Mobicom'24 Artifact Evaluation<br>
-ACM Mobisys'24 Artifact Evaluation<br>
-ACM Sensys'24 Artifact Evaluation<br>
-IEEE ICPADS'24 Technical Program Committee
+USENIX Security Artifact Evaluation, 2025<br>
+ACM Mobicom Artifact Evaluation, 2024-2025<br>
+ACM Mobisys Artifact Evaluation, 2024<br>
+ACM Sensys Artifact Evaluation, 2024<br>
+IEEE ICPADS Technical Program Committee, 2024
 
 <b>Invited Reviewer</b> <br>
-IEEE/ACM Transactions on Networking (2023 2024 2025)<br>
-IEEE Transactions on Mobile Computing (2024 2025)<br>
+IEEE/ACM Transactions on Networking (2023-2025)<br>
+IEEE Transactions on Mobile Computing (2024-2025)<br>
 IEEE Transactions on Wireless Communication (2025)<br>
-ACM Transactions on Sensor Network (2022 2023 2024)<br>
+IEEE Transactions on Communications (2025)<br>
+IEEE Internet Computing (2025)<br>
+ACM Transactions on Sensor Network (2022-2024)<br>
 MobiQuitous'22 
 
 Awards
