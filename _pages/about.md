@@ -36,7 +36,6 @@ News
 * [09/2024] Finished two deep learning wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
 * [08/2024] Serve as Technical Program Committee of ICPADS'24. <br>
-* [06/2024] Gave a talk at Tsinghua University.<br>
 * [05/2024] Awarded ACM MobiSys'24 Travel Grant.<br>
 * [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
 * [03/2024] One paper accepted to **MobiSys'24** with shepherding.<br>
@@ -180,7 +179,7 @@ IEEE ICNP Travel Grant, 2022 <br>
 
 Industrial Experience
 ======
-<b>Qualcomm</b> - Wi-Fi System Team Intern (Deep learning on wireless projects for localization and roaming). 06/2024-09/2024 
+<b>Qualcomm</b> - Wi-Fi System Team Intern 06/2024-09/2024 
 
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=ZCkq05bZ5W9TJLguU2G7tRLb2UefixELw1Ao5pPHLAw&co=2daaad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script></body>
