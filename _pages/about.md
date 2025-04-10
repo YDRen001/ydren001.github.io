@@ -174,7 +174,6 @@ Michigan State University Dissertation Completion Fellowship, 2025 <br>
 ACM MobiCom Travel Grant, 2024 <br>
 ACM MobiSys Travel Grant, 2024 <br>
 ACM MobiHoc Travel Grant, 2023 <br>
-IEEE ICNP Travel Grant, 2022 <br>
 
 
 Industrial Experience
