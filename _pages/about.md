@@ -12,10 +12,10 @@ redirect_from:
 <p>Welcome, my name is Yidong Ren, currently a Senior System Engineer at Qualcomm. I received my Ph.D. in Computer Science from <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a> and a B.E. in Electronic and Information Engineering from the University of Electronic Science and Technology of China in 2021. I was a research intern advised by <a href="https://home.cse.ust.hk/~lim/">Prof. Mo Li</a> in 2019. My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Wireless Local Area Network (WLAN), Low-power Wide-area Networks (LPWAN), ultra-low power communication, and sensing. Check out my <a href="https://ydren001.github.io/files/C.V._Yidong.pdf"><i class="fas fa-file-pdf"></i> Resume</a><br>
   
   <p style="margin-bottom: 6px;">
-  <b>Sustainable Agricultural IoT</b>: MobiCom'24a, MobiCom'24b.<br>
+  <b>Sustainable Rural IoT</b>: MobiCom'24a, MobiCom'24b.<br>
   </p>
   <p style="margin-bottom: 6px;">
-  <b>IoT Encoder Decoder</b>: MobiSys’24, MobiCom'24c, MobiHoc’23, ICLR’23 ML4IoT. <br>
+  <b>LoRa Encoder Decoder</b>: MobiCom'25, MobiSys’24, MobiCom'24c, MobiHoc’23, ICLR’23 ML4IoT. <br>
   </p>
   <p style="margin-bottom: 6px;">
   <b>Battery-less IoT</b>: INFOCOM'23, INFOCOM'25.<br>
