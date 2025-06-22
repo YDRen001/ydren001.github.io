@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-<p>Welcome, my name is Yidong Ren, currently a fourth-year Ph.D. candidate in the Computer Science and Engineering Department at <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a>. I received my bachelor's degree in Electronic and Information Engineering from the University of Electronic Science and Technology of China in 2021. My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Low-power Wide-area Networks (LPWAN), ultra-low power communication, and their applications in agriculture. Check out my <a href="https://ydren001.github.io/files/C.V._Yidong.pdf"><i class="fas fa-file-pdf"></i> Resume</a><br>
+<p>Welcome, my name is Yidong Ren, currently a Senior System Engineer at Qualcomm. I received my Ph.D. in Computer Science from <a href="http://www.cse.msu.edu/">Michigan State University</a> advised by Professor <a href="https://cse.msu.edu/~caozc/">ZhiChao Cao</a> and a B.E. in Electronic and Information Engineering from the University of Electronic Science and Technology of China in 2021. I was a research intern advised by <a href="https://home.cse.ust.hk/~lim/">Prof. Mo Li</a> in 2019. My research focuses on <b>Internet of Things (IoT)</b> and <b>Wireless Communication/Networks</b>, especially on Wireless Local Area Network (WLAN), Low-power Wide-area Networks (LPWAN), ultra-low power communication, and sensing. Check out my <a href="https://ydren001.github.io/files/C.V._Yidong.pdf"><i class="fas fa-file-pdf"></i> Resume</a><br>
   
   <p style="margin-bottom: 6px;">
   <b>Sustainable Agricultural IoT</b>: MobiCom'24a, MobiCom'24b.<br>
@@ -28,6 +28,8 @@ redirect_from:
 
 News
 ======
+* [06/2024] One paper accepted to **MobiCom'25**. Congratulations to Khang, an undergraduate I was fortunate to mentor!<br>
+* [06/2024] Completed Ph.D. defense!<br>
 * [03/2025] One paper accepted to **SenSys'25**.
 * [12/2024] One paper accepted to **INFOCOM'25**.<br>
 * [11/2024] Serve as USENIX Security'25 Artifact Evaluation Committee <br>
@@ -36,14 +38,16 @@ News
 * [09/2024] Finished two deep learning wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
 * [08/2024] Serve as Technical Program Committee of ICPADS'24. <br>
-* [05/2024] Awarded ACM MobiSys'24 Travel Grant.<br>
-* [04/2024] Serve as ACM MobiSys'24 Artifact Evaluation Committee.<br>
-* [03/2024] One paper accepted to **MobiSys'24** with shepherding.<br>
-* [02/2024] Serve as ACM MobiCom'24 Artifact Evaluation Committee.<br>
 <br>
 
 Publications
 ======
+
+<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2025</b></button>
+<b>LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction (To appear)</b><br>
+<I>The 31th Annual International Conference on Mobile Computing and Networking, 2025 </i> <br>
+<font size="1"> </font>
+
 
 <img src="http://ydren001.github.io/images/title-fig/proteus.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>SenSys 2025</b></button>
@@ -152,6 +156,7 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 Academic Service
 ======
 <b>Program Committee</b> <br>
+CCS Artifact Evaluation, 2025<br>
 USENIX Security Artifact Evaluation, 2025<br>
 ACM Mobicom Artifact Evaluation, 2024-2025<br>
 ACM Mobisys Artifact Evaluation, 2024<br>
@@ -159,12 +164,13 @@ ACM Sensys Artifact Evaluation, 2024<br>
 IEEE ICPADS Technical Program Committee, 2024
 
 <b>Invited Reviewer</b> <br>
+Distinguished reviewer, ACM Transactions on Internet of Things<br>
 IEEE/ACM Transactions on Networking (2023-2025)<br>
 IEEE Transactions on Mobile Computing (2024-2025)<br>
 IEEE Transactions on Wireless Communication (2025)<br>
 IEEE Transactions on Communications (2025)<br>
 IEEE Internet Computing (2025)<br>
-ACM Transactions on Sensor Network (2022-2024)<br>
+ACM Transactions on Sensor Networks (2022-2024)<br>
 MobiQuitous'22 
 
 Awards
