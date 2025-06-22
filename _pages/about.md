@@ -30,6 +30,7 @@ News
 ======
 * [06/2024] One paper accepted to **MobiCom'25**. Congratulations to Khang, an undergraduate I was fortunate to mentor!<br>
 * [06/2024] Completed Ph.D. defense!<br>
+* [05/2024] Awarded MobiSys 2025 Rising Star!<br>
 * [03/2025] One paper accepted to **SenSys'25**.
 * [12/2024] One paper accepted to **INFOCOM'25**.<br>
 * [11/2024] Serve as USENIX Security'25 Artifact Evaluation Committee <br>
