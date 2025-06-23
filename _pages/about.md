@@ -174,13 +174,15 @@ IEEE Internet Computing (2025)<br>
 ACM Transactions on Sensor Networks (2022-2024)<br>
 MobiQuitous'22 
 
-Awards
+Honor and Awards
 ======
-ACM MobiCom Distinguished Artifact Reviewer, 2024 <br>
+ACM MobiSys Rising Star, 2025 <br>
 Michigan State University Dissertation Completion Fellowship, 2025 <br> 
+ACM MobiCom Distinguished Artifact Reviewer, 2024 <br>
 ACM MobiCom Travel Grant, 2024 <br>
 ACM MobiSys Travel Grant, 2024 <br>
 ACM MobiHoc Travel Grant, 2023 <br>
+IEEE ICNP Travel Grant, 2022 <br>
 
 
 Industrial Experience
