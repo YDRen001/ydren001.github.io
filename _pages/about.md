@@ -28,6 +28,7 @@ redirect_from:
 
 News
 ======
+* [06/2024] Serve as a Distinguished Reviewer at ACM TIOT.
 * [06/2024] One paper accepted to **MobiCom'25**. Congratulations to Khang, an undergraduate I was fortunate to mentor!<br>
 * [06/2024] Completed Ph.D. defense!<br>
 * [05/2024] Awarded MobiSys 2025 Rising Star!<br>
@@ -164,8 +165,10 @@ ACM Mobisys Artifact Evaluation, 2024<br>
 ACM Sensys Artifact Evaluation, 2024<br>
 IEEE ICPADS Technical Program Committee, 2024
 
+<b>Distinguished Reviewer Board</b> <br>
+ACM Transactions on Internet of Things<br>
+
 <b>Invited Reviewer</b> <br>
-Distinguished reviewer, ACM Transactions on Internet of Things<br>
 IEEE/ACM Transactions on Networking (2023-2025)<br>
 IEEE Transactions on Mobile Computing (2024-2025)<br>
 IEEE Transactions on Wireless Communication (2025)<br>
