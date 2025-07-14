@@ -171,11 +171,11 @@ ACM Transactions on Internet of Things<br>
 <b>Invited Reviewer</b> <br>
 IEEE/ACM Transactions on Networking (2023-2025)<br>
 IEEE Transactions on Mobile Computing (2024-2025)<br>
+ACM Transactions on Sensor Networks (2022-2025)<br>
 IEEE Transactions on Wireless Communication (2025)<br>
 IEEE Transactions on Communications (2025)<br>
 IEEE Internet Computing (2025)<br>
-ACM Transactions on Sensor Networks (2022-2024)<br>
-MobiQuitous'22 
+MobiQuitous, 2022 
 
 Honor and Awards
 ======
