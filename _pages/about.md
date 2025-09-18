@@ -47,9 +47,17 @@ Publications
 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiCom 2025</b></button>
 <b>LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction (To appear)</b><br>
+<br> Khang Nguyen, <b>Yidong Ren</b>, Jialuo Du, Jingkai Lin, Maolin Gan, Shigang Chen, Mi Zhang, Chunyi Peng, Zhichao Cao<br>
 <I>The 31th Annual International Conference on Mobile Computing and Networking, 2025 </i> <br>
+<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom25-khang.pdf) <br clear="left"/>
 <font size="1"> </font>
 
+<button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiSys 2025</b></button>
+<b>Toward Reliable and Scalable LoRa Networking for Rural IoT.</b>
+<br> Yidong Ren<br>
+<I>The 23nd ACM International Conference on Mobile Systems, Applications, and Services, 2025 <b>(Rising Star Forum)</b> </i> <br>
+<i>[[PDF]](http://ydren001.github.io/files/MobiSys25.pdf) <br clear="left"/>
+<font size="1"> </font>
 
 <img src="http://ydren001.github.io/images/title-fig/proteus.png" align="right" style="vertical-align: middle; width: 233px; height: 130px;">
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>SenSys 2025</b></button>
