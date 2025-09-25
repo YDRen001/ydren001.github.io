@@ -49,7 +49,7 @@ Publications
 <b>LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction (To appear)</b><br>
 <br> Khang Nguyen, <b>Yidong Ren</b>, Jialuo Du, Jingkai Lin, Maolin Gan, Shigang Chen, Mi Zhang, Chunyi Peng, Zhichao Cao<br>
 <I>The 31th Annual International Conference on Mobile Computing and Networking, 2025 </i> <br>
-<i>[[PDF]](https://cse.msu.edu/~caozc/papers/mobicom25-khang.pdf) <br clear="left"/>
+<i>[[PDF]](http://ydren001.github.io/files/MobiCom25.pdf) <br clear="left"/>
 <font size="1"> </font>
 
 <button type="button" class="btn btn-primary" style="font-size: 15px; background-color: orange; color: white; padding: 4px 6px; border-radius: 3px;"><b>MobiSys 2025</b></button>
