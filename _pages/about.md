@@ -28,10 +28,11 @@ redirect_from:
 
 News
 ======
-* [06/2024] Serve as a Distinguished Reviewer at ACM TIOT.
-* [06/2024] One paper accepted to **MobiCom'25**. Congratulations to Khang, an undergraduate I was fortunate to mentor!<br>
-* [06/2024] Completed Ph.D. defense!<br>
-* [05/2024] Awarded MobiSys 2025 Rising Star!<br>
+* [10/2025] Received Paul Baran Young Scholar Award from Marconi Society!
+* [08/2025] One paper accepted to **MobiCom'25**. Congratulations to Khang, an undergraduate I was fortunate to mentor!<br>
+* [06/2025] Serve as a Distinguished Reviewer at ACM TIOT.
+* [06/2025] Completed Ph.D. defense!<br>
+* [05/2025] Awarded MobiSys 2025 Rising Star!<br>
 * [03/2025] One paper accepted to **SenSys'25**.
 * [12/2024] One paper accepted to **INFOCOM'25**.<br>
 * [11/2024] Serve as USENIX Security'25 Artifact Evaluation Committee <br>
