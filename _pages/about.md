@@ -28,6 +28,7 @@ redirect_from:
 
 News
 ======
+* [10/2025] Invited as MobiSys'25 Technical Program Committee.
 * [10/2025] Received Paul Baran Young Scholar Award from Marconi Society!
 * [08/2025] One paper accepted to **MobiCom'25**. Congratulations to Khang, an undergraduate I was fortunate to mentor!<br>
 * [06/2025] Serve as a Distinguished Reviewer at ACM TIOT.
