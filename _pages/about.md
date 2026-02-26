@@ -168,6 +168,7 @@ Yanbo Zhang, Weiping Sun, <b>Yidong Ren</b>, Sung-ju Lee and Mo Li<br><I>IEEE Tr
 Academic Service
 ======
 <b>Program Committee</b> <br>
+ACM Mobisys Technical Program Committee, 2026<br>
 CCS Artifact Evaluation, 2025<br>
 USENIX Security Artifact Evaluation, 2025<br>
 ACM Mobicom Artifact Evaluation, 2024-2025<br>
@@ -177,11 +178,13 @@ IEEE ICPADS Technical Program Committee, 2024
 
 <b>Distinguished Reviewer Board</b> <br>
 ACM Transactions on Internet of Things<br>
+ACM Transactions on Sensor Networks<br>
+
 
 <b>Invited Reviewer</b> <br>
 IEEE/ACM Transactions on Networking (2023-2025)<br>
-IEEE Transactions on Mobile Computing (2024-2025)<br>
-ACM Transactions on Sensor Networks (2022-2025)<br>
+IEEE Transactions on Mobile Computing (2024-2026)<br>
+ACM Transactions on Sensor Networks (2022-2026)<br>
 IEEE Transactions on Wireless Communication (2025)<br>
 IEEE Transactions on Communications (2025)<br>
 IEEE Internet Computing (2025)<br>
