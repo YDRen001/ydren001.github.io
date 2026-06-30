@@ -28,6 +28,7 @@ redirect_from:
 
 News
 ======
+* [10/2025] Serve as IEEE MSN'26 Co-Chair of Track 2: Edge Computing, IoT and Digital Twins.
 * [10/2025] Invited as MobiSys'26 Technical Program Committee.
 * [10/2025] Received Paul Baran Young Scholar Award from Marconi Society!
 * [08/2025] One paper accepted to **MobiCom'25**. Congratulations to Khang, an undergraduate I was fortunate to mentor!<br>
