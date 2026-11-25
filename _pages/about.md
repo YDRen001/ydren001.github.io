@@ -28,6 +28,7 @@ redirect_from:
 
 News
 ======
+* [11/2026] Invited as MobiSys'27 Technical Program Committee.
 * [06/2026] Serve as IEEE MSN'26 Co-Chair of Track 2: Edge Computing, IoT and Digital Twins.
 * [10/2025] Invited as MobiSys'26 Technical Program Committee.
 * [10/2025] Received Paul Baran Young Scholar Award from Marconi Society!
@@ -42,7 +43,6 @@ News
 * [10/2024] One paper accepted to **SenSys'24**. Awarded ACM MobiCom'24 Travel Grant.<br>
 * [09/2024] Finished two deep learning wireless projects for Wi-Fi8 during my internship in **Qualcomm**.<br>
 * [08/2024] Two papers accepted to **MobiCom'24**.<br>
-* [08/2024] Serve as Technical Program Committee of ICPADS'24. <br>
 <br>
 
 Publications
